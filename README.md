@@ -1,6 +1,6 @@
 # Simple task list
 
-Link to the project: 
+Link to the project: https://konradszejgiec.github.io/tasklist/
 
 ## Table of contents
 
