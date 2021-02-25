@@ -10,7 +10,7 @@ Link to the project: https://konradszejgiec.github.io/tasklist/
 
 ## General info
 
-This project is a task list with possibilites to add tasks, store tasks in local storage and filter stored tasks.
+This project is a task list with possibilites to add tasks, store tasks in local storage, remove tasks from local storage and filter stored tasks.
 	
 ## Technologies
 
